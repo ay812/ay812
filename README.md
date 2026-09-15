@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ay812</h1>
+<h1 align="center">Hi 👋, I'm Darakshan Aymen</h1>
 <h3 align="center">A passionate BS Computer Science student from Kahuta, Pakistan</h3>
 
 <p align="center">
