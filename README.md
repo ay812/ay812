@@ -37,7 +37,7 @@
 A.Q. Khan Institute of Computer Sciences & Information Technology (KICSIT), Kahuta
 
 ---
-My projects
+### My projects
 -  [Job Board Platform](https://github.com/ay812/Job-Board-platform) — A job board where employers can post jobs and users can view listings
 - 🍽️ [Restaurant Management System](https://github.com/ay812/Resturant-Management-system) — A restaurant management system project
 
